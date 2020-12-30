@@ -32,7 +32,7 @@ Unfortunately, individual performance can rarely be measured. There are persons 
 
 On the other hand, team performance, is far more visible. Maybe, the best way to track it is to ask, _"Does the team consistently deploy working software for the customer?"_" This echoes the [third Agile principle](https://agilemanifesto.org/principles.html). Booked hours, story points, breakdown charts, and task throughputs are easy to measure, but they usually don’t give answers to right questions.
 
-The correct way to measure the productivity of a team is to understand the level of satisfaction that the customer has with the software. Negative feedback from our customers/users are more important than positives ones because negative feedback has more information about what we are doing wrong.
+The correct way to measure the productivity of a team is to understand the level of satisfaction that the customer has with the software. It is not casual the fact that Apple is in the top of American Customer Satisfaction Index and its [position at market cap](https://companiesmarketcap.com/apple/marketcap/). Negative feedback from our customers/users are more important than positives ones because negative feedback has more information about what we are doing wrong.
 
 If we don’t measure productivity change from sprint to sprint, it doesn’t mean that we don’t have a clue at all. “Cycle time” is a measure of the time it takes for a bug, feature, or task to move from one status to another. Cycle time can tell you where there are bottlenecks, blockers, or breakdowns in your process in order to be addressed by your development team. Useful to decide if you should to get a new quality assurance specialist. Although it's true that a productive tester has high delivery rate and push modifies frequently, is not true that testers who has high delivery rate are productive.
 
@@ -57,7 +57,7 @@ So, we need to analyze all variables in its context. An abnormal curve on the Cy
 - Tech and business alignment
 - Agility to work
 
-See table below and to answer witch team you consider more productive. Of course it is the better situation in front of the worst one. Both are unreal, but I think it is a good table to start managing the concept. I am sure you will agree that Team B is more productive than Team A.
+See table below and try to answer wich team you consider more productive. Of course it is the better situation in front of the worst one. Both are unreal, but I think it is a good table to start managing the concept. I am sure you will agree that Team B is more productive than Team A. Notice we are not mentioned Trend Velocity because we can not compare two trend veloticty from two differents teams.
 
 | | Team A | Team B |
 | --- |  --- | --- |
@@ -82,7 +82,7 @@ See table below and to answer witch team you consider more productive. Of course
 
 You must be careful at measuring. Productivity can not be measure at individual level and it is very difficult to do it at team level. Mostly because some factors like "Synergy", "Internal relationship" or "Bureaucracy" are not measurable values. To reduce analysis to a simply velocity trend is naive (and [questioned](https://en.wikipedia.org/wiki/Velocity_(software_development))).
 
-Unlike what many people think, productivity is something that the team acquires immediately. It is more similar to a pool game, where at the beginning you are in a situation and you slowly approach a goal, identifying along the way some pieces of the game that could be better positioned.
+Unlike what many people think, productivity is not something that the team acquires immediately. It is more similar to a pool game, where at the beginning you are in a situation and you slowly approach a goal, identifying along the way some pieces of the game that could be better positioned.
 
 To do as good as possible, you can identify situations that affect your productivity and try to fix it. It is important to know them and know how to react. Some of them can be measured and you can use Jira, but many other is difficult or impossible to measured. Productivity can not be measured directly but fortunately, you can identify unfavorable situations for productivity and attack them to improve productivity indirectly.
 
